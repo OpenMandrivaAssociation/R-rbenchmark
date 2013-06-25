@@ -2,7 +2,7 @@
 %global rlibdir  %{_datadir}/R/library
 
 Name:             R-%{packname}
-Version:          0.3
+Version:          1.0.0
 Release:          2
 Summary:          Benchmarking routine for R
 Group:            Sciences/Mathematics
